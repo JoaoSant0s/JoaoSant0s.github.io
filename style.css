@@ -6,6 +6,12 @@ h2 {
     color: #dd4a4a
 }
 
+.inline_dots li{
+    display: inline;
+    padding-right: 2px;
+    padding-left: 2px;
+}
+
 .row::after {
     content: "";
     clear: both;
