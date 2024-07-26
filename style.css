@@ -5,6 +5,9 @@
 h2 {
     color: #dd4a4a
 }
+p, ul, li, ol, i {
+    font-size: 20px;
+}
 
 .inline_dots li{
     display: inline;
