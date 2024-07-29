@@ -2,9 +2,19 @@
     box-sizing: border-box;
 }
 
-h2 {
-    color: #dd4a4a
+h1{
+    font-size: 35px;
 }
+
+h2 {
+    color: #dd4a4a;
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 25px;
+}
+
 p, ul, li, ol, i {
     font-size: 20px;
 }
